@@ -1,0 +1,1 @@
+{"keys":[{"kty":"EC","crv":"P-256","kid":"attacker-key-1","alg":"ES256","use":"sig","x":"PLACEHOLDER","y":"PLACEHOLDER"}]}
