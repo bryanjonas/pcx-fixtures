@@ -1,0 +1,1 @@
+{"keys":[{"kty":"EC","crv":"P-256","x":"E3ndWciny82EUWDHy-WntIvIn15nSBvaOV4znNWawW0","y":"-PnMaBUInDikE3-lGw_fmKVnQoFfE-ClDTInklEjMRo","kid":"attacker1","alg":"ES256","use":"sig"}]}
